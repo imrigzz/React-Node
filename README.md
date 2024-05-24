@@ -11,3 +11,6 @@ npm create vite@latest reactApp
 cd reactApp
 npm install
 npm run dev
+
+
+>> props is argument to jsx <Hero/>
